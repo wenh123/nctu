@@ -1,3 +1,5 @@
+![nctu logo](logo.gif)
+
 # nctu
 
 ## nctu
