@@ -1,6 +1,6 @@
 ![nctu logo](logo.gif)
 
-# nctu
+# Branch 2
 
 ## nctu
 
